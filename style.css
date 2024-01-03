@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: black;
+}
+.collapse ul li:hover{
+    border-bottom: 2px solid white;
+}
+#logo {
+    font-size: 2.5rem;
+    font-family: 'Pacifico';
+}
+.carousel-inner img{
+    width: 100%;
+    height: 90vh;
+    
+}
+.carousel-item h5{
+    font-weight: 800;
+}
+.carousel-item p{
+    font-weight: 400;
+}
+.row a{
+    text-decoration: none;
+}
+.row img{
+    background-position: center;
+}
+footer{
+    background-color: rgb(28, 18, 18);
+}
+#msg{
+    font-size: 1.5rem;
+    margin: 5px 0px;
+    color: white;
+}
